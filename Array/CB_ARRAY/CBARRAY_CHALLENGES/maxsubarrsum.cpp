@@ -13,7 +13,7 @@ int maxsum(int a[],int n)
         if(cs>ms)
         ms=cs;
     }
-    return cs;
+    return ms;
 }
 
 int main()
